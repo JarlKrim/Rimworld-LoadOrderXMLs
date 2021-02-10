@@ -1,0 +1,282 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModList>
+	<Name>Jarls' Vanilla-ish Order</Name>
+	<modIds>
+		<li>brrainz.harmony</li>
+		<li>ludeon.rimworld</li>
+		<li>ludeon.rimworld.royalty</li>
+		<li>unlimitedhugs.hugslib</li>
+		<li>jecrell.jecstools</li>
+		<li>erdelf.humanoidalienraces</li>
+		<li>edb.preparecarefully</li>
+		<li>fluffy.modmanager</li>
+		<li>brrainz.cameraplus</li>
+		<li>oskarpotocki.vanillafactionsexpanded.core</li>
+		<li>oskarpotocki.vanillaexpanded.royaltypatches</li>
+		<li>vanillaexpanded.achievements</li>
+		<li>vanillaexpanded.vwe_copy</li>
+		<li>oskarpotocki.vanillafactionsexpanded.medievalmodule</li>
+		<li>oskarpotocki.vanillafactionsexpanded.settlersmodule</li>
+		<li>oskarpotocki.vfe.vikings</li>
+		<li>oskarpotocki.vfe.insectoid</li>
+		<li>vanillaexpanded.vanillatraitsexpanded</li>
+		<li>vat.epoeforked</li>
+		<li>vat.epoeforkedroyalty</li>
+		<li>smuffle.harvestorganspostmortem</li>
+		<li>orion.hospitality</li>
+		<li>vinalx.researchpalforked</li>
+		<li>smashphil.carrycapacityfixed</li>
+		<li>captainmuscles.chillout</li>
+		<li>mlie.clothingsorter</li>
+		<li>avilmask.commonsense</li>
+		<li>captainmuscles.prioritizeresearch</li>
+		<li>fluffy.blueprints</li>
+		<li>derekbickley.ltocolonygroupsfinal</li>
+		<li>thewirelord354.conduitdeconstruct</li>
+		<li>custom.stack</li>
+		<li>neceros.bulksmelting</li>
+		<li>fuglypump.bulkstonecutting</li>
+		<li>brrainz.achtung</li>
+		<li>unlimitedhugs.allowtool</li>
+		<li>rudo.hairpiracy</li>
+		<li>razor2.3.anotherrimworldmod.autocutblight</li>
+		<li>notooshabby.awesomeinventory</li>
+		<li>mlie.bettermessageplacement</li>
+		<li>madeline.modmismatchformatter</li>
+		<li>voult.betterpawncontrol</li>
+		<li>mlie.betterrecordstab</li>
+		<li>fluffy.animaltab</li>
+		<li>falconne.bwm</li>
+		<li>automatic.bionicicons</li>
+		<li>dubwise.dubsmintmenus</li>
+		<li>krafs.levelup</li>
+		<li>jaxe.bubbles</li>
+		<li>murmur.isid</li>
+		<li>arandomkiwi.huntforme</li>
+		<li>kittahkhan.grazeup</li>
+		<li>telefonmast.graphicssettings</li>
+		<li>captainmuscles.gotosleep</li>
+		<li>fluffy.followme</li>
+		<li>hobtook.mortaraccuracy</li>
+		<li>com.github.alandariva.moreplanning</li>
+		<li>mlie.morefactioninteraction</li>
+		<li>ratys.madskills</li>
+		<li>jp.perfectpathing</li>
+		<li>wemd.partiallypassablewindturbines</li>
+		<li>weilbyte.nopowerwires</li>
+		<li>krkr.locks2</li>
+		<li>jaxe.rimhud</li>
+		<li>roolo.runandgun</li>
+		<li>uuugggg.sharetheload</li>
+		<li>roolo.searchanddestroy</li>
+		<li>petetimessix.simplesidearms</li>
+		<li>pinochemicali.skilledstonecutting</li>
+		<li>weilbyte.snapout</li>
+		<li>zhrocks11.stackablechunks</li>
+		<li>elseud.thisismine</li>
+		<li>tradingspot.kv.rw</li>
+		<li>knight.useyourgun</li>
+		<li>walkingproblem.wildanimalsex</li>
+		<li>mlie.weaponssorter</li>
+		<li>fluffy.worktab</li>
+		<li>crlsniper.realisticrooms</li>
+		<li>sgc.quests</li>
+		<li>uuugggg.replacestuff</li>
+		<li>hatti.qualitybuilder</li>
+		<li>mlie.xndprofitableweapons</li>
+		<li>fluffy.pharmacist</li>
+		<li>mobius.royaltytweaks</li>
+		<li>derekbickley.legacytextureoverhaulfinal</li>
+		<li>vanillaexpanded.vtexe</li>
+		<li>swedishmask.propershotgunspatch</li>
+		<li>sumghaicoalcat.defensivemachinegunturretpack</li>
+		<li>syrchalis.doormats</li>
+		<li>dubwise.dubsskylights</li>
+		<li>mlie.grubfarm</li>
+		<li>rimfridge.kv.rw</li>
+		<li>lwm.deepstorage</li>
+		<li>notfood.mendandrecycle</li>
+		<li>wexman.mines</li>
+		<li>haplo.miscellaneous.training</li>
+		<li>sgc.moreutilitypacks</li>
+		<li>chemtoneutro.velcroboy333</li>
+		<li>n7huntsman.rimgunsextended</li>
+		<li>jangodsoul.simplestorage</li>
+		<li>mlie.simplymorebridges</li>
+		<li>averythekitty.tillableterrains</li>
+		<li>gt.sam.tilledsoil</li>
+		<li>vanillaexpanded.vaeas</li>
+		<li>vanillaexpanded.vaeau</li>
+		<li>vanillaexpanded.vaebf_copy</li>
+		<li>vanillaexpanded.vaecd_copy</li>
+		<li>vanillaexpanded.vaed_copy</li>
+		<li>vanillaexpanded.vaeed_copy</li>
+		<li>vanillaexpanded.vaeis_copy</li>
+		<li>vanillaexpanded.vaetr_copy</li>
+		<li>vanillaexpanded.vaets_copy</li>
+		<li>vanillaexpanded.vaet_copy</li>
+		<li>vanillaexpanded.vappe_copy</li>
+		<li>vanillaexpanded.varme_copy</li>
+		<li>vanillaexpanded.vcef_copy</li>
+		<li>vanillaexpanded.vfecore_copy</li>
+		<li>vanillaexpanded.vfeart_copy</li>
+		<li>vanillaexpanded.vfefarming_copy</li>
+		<li>vanillaexpanded.vfemedical_copy</li>
+		<li>vanillaexpanded.vfepower_copy</li>
+		<li>vanillaexpanded.vfeproduction_copy</li>
+		<li>vanillaexpanded.vfepropsanddecor_copy</li>
+		<li>vanillaexpanded.vfesecurity_copy</li>
+		<li>vanillaexpanded.vhe_copy</li>
+		<li>vanillaexpanded.vhe.beards_copy</li>
+		<li>vanillaexpanded.vplantse_copy</li>
+		<li>vanillaexpanded.vplantsesucculents_copy</li>
+		<li>vanillaexpanded.vwec_copy</li>
+		<li>vanillaexpanded.vweg_copy</li>
+		<li>vanillaexpanded.vwehw</li>
+		<li>vanillaexpanded.vwel_copy</li>
+		<li>vanillaexpanded.vweq_copy</li>
+		<li>murmur.walllight_copy</li>
+		<li>shakesthespeare.rimsecsecurity</li>
+		<li>sargoskar.witcherhunt</li>
+		<li>atlas.androidtiers</li>
+	</modIds>
+	<modNames>
+		<li>Harmony</li>
+		<li>Core</li>
+		<li>Royalty</li>
+		<li>HugsLib</li>
+		<li>JecsTools</li>
+		<li>Humanoid Alien Races 2.0</li>
+		<li>EdB Prepare Carefully</li>
+		<li>Mod Manager</li>
+		<li>Camera+</li>
+		<li>Vanilla Expanded Framework</li>
+		<li>Vanilla Expanded - Royalty Patches</li>
+		<li>Vanilla Achievements Expanded</li>
+		<li>Vanilla Weapons Expanded</li>
+		<li>Vanilla Factions Expanded - Medieval</li>
+		<li>Vanilla Factions Expanded - Settlers</li>
+		<li>Vanilla Factions Expanded - Vikings</li>
+		<li>Vanilla Factions Expanded - Insectoids</li>
+		<li>Vanilla Traits Expanded</li>
+		<li>Expanded Prosthetics and Organ Engineering - Forked</li>
+		<li>EPOE-Forked: Royalty DLC expansion</li>
+		<li>Harvest Organs Post Mortem</li>
+		<li>Hospitality</li>
+		<li>ResearchPal - Forked</li>
+		<li>Carry Capacity Fixed</li>
+		<li>Chill the F*** Out</li>
+		<li>Clothing Sorter</li>
+		<li>Common Sense</li>
+		<li>Do Your F****** Research</li>
+		<li>Blueprints</li>
+		<li>[LTO] Colony Groups</li>
+		<li>Conduit Deconstruct</li>
+		<li>CustomStack</li>
+		<li>Bulk Smelting</li>
+		<li>Bulk Stonecutting</li>
+		<li>Achtung!</li>
+		<li>Allow Tool</li>
+		<li>Architect Icons, Combined</li>
+		<li>Auto-Cut Blight</li>
+		<li>Awesome Inventory</li>
+		<li>Better Message Placement (Continued)</li>
+		<li>Better ModMismatch Window</li>
+		<li>Better Pawn Control</li>
+		<li>Better Records Tab (Continued)</li>
+		<li>Animal Tab</li>
+		<li>Better Workbench Management</li>
+		<li>Bionic icons</li>
+		<li>Dubs Mint Menus</li>
+		<li>Level Up!</li>
+		<li>Interaction Bubbles</li>
+		<li>Infestations Spawn in Darkness</li>
+		<li>Hunt for Me</li>
+		<li>[Kit] Graze up</li>
+		<li>Graphics Settings+</li>
+		<li>Go the F*** to Sleep</li>
+		<li>Follow Me</li>
+		<li>Mortar Accuracy</li>
+		<li>More Planning</li>
+		<li>More Faction Interaction (Continued)</li>
+		<li>Mad Skills</li>
+		<li>Perfect Pathfinding</li>
+		<li>[WD] Partially-Passable Wind Turbines</li>
+		<li>No Power Wires</li>
+		<li>Locks 2: Lock Them Out!</li>
+		<li>RimHUD</li>
+		<li>RunAndGun</li>
+		<li>Share The Load</li>
+		<li>Search and Destroy</li>
+		<li>Simple sidearms</li>
+		<li>Skilled Stonecutting</li>
+		<li>Snap Out!</li>
+		<li>Stackable Chunks [Continued]</li>
+		<li>This Is Mine</li>
+		<li>[KV] Trading Spot</li>
+		<li>Use Your Gun!</li>
+		<li>[1.2] Wild Animal Sex V5.0</li>
+		<li>Weapons Sorter</li>
+		<li>Work Tab</li>
+		<li>Realistic Rooms</li>
+		<li>Quest Reward Rebalance</li>
+		<li>Replace Stuff</li>
+		<li>QualityBuilder</li>
+		<li>[XND] Profitable Weapons (Continued)</li>
+		<li>Pharmacist</li>
+		<li>Royalty Tweaks</li>
+		<li>[LTO] Texture Overhaul</li>
+		<li>Vanilla Textures Expanded</li>
+		<li>Proper Shotguns (Unofficial Patch)</li>
+		<li>Defensive Machine Gun Turret Pack</li>
+		<li>[SYR] Doormats</li>
+		<li>Dubs Skylights</li>
+		<li>Grub Farm (Continued)</li>
+		<li>[KV] RimFridge</li>
+		<li>LWM's Deep Storage</li>
+		<li>MendAndRecycle</li>
+		<li>Mines</li>
+		<li>Misc. Training</li>
+		<li>More Utility Packs</li>
+		<li>Process Neutroamine from Chemfuel</li>
+		<li>Rim Guns Extended</li>
+		<li>[JDS] Simple Storage</li>
+		<li>Simply More Bridges (Continued)</li>
+		<li>Tillable Terrains [VPE Patch]</li>
+		<li>Tilled Soil</li>
+		<li>Vanilla Animals Expanded — Arid Shrubland</li>
+		<li>Vanilla Animals Expanded — Australia</li>
+		<li>Vanilla Animals Expanded — Boreal Forest</li>
+		<li>Vanilla Animals Expanded — Cats and Dogs</li>
+		<li>Vanilla Animals Expanded — Desert</li>
+		<li>Vanilla Animals Expanded — Extreme Desert</li>
+		<li>Vanilla Animals Expanded — Ice Sheet</li>
+		<li>Vanilla Animals Expanded — Tropical Rainforest</li>
+		<li>Vanilla Animals Expanded — Tropical Swamp</li>
+		<li>Vanilla Animals Expanded — Tundra</li>
+		<li>Vanilla Apparel Expanded</li>
+		<li>Vanilla Armour Expanded</li>
+		<li>Vanilla Fishing Expanded</li>
+		<li>Vanilla Furniture Expanded</li>
+		<li>Vanilla Furniture Expanded - Art</li>
+		<li>Vanilla Furniture Expanded - Farming</li>
+		<li>Vanilla Furniture Expanded - Medical Module</li>
+		<li>Vanilla Furniture Expanded - Power</li>
+		<li>Vanilla Furniture Expanded - Production</li>
+		<li>Vanilla Furniture Expanded - Props and Decor</li>
+		<li>Vanilla Furniture Expanded - Security</li>
+		<li>Vanilla Hair Expanded</li>
+		<li>Vanilla Hair Expanded - Beards</li>
+		<li>Vanilla Plants Expanded</li>
+		<li>Vanilla Plants Expanded - Succulents</li>
+		<li>Vanilla Weapons Expanded - Coilguns</li>
+		<li>Vanilla Weapons Expanded - Grenades</li>
+		<li>Vanilla Weapons Expanded - Heavy Weapons</li>
+		<li>Vanilla Weapons Expanded - Laser</li>
+		<li>Vanilla Weapons Expanded - Quickdraw</li>
+		<li>Wall Light</li>
+		<li>Rimsec Security</li>
+		<li>RimWorld - Witcher Monster Hunt</li>
+		<li>Android tiers</li>
+	</modNames>
+</ModList>
